@@ -45,10 +45,10 @@ Options
 
 You can configure the paths to the different test groups:
 
-- `:unit\_paths` defaults to `['spec/unit']`
-- `:integration\_paths` defaults to `['spec/integration']`
-- `:acceptance\_paths` defaults to `['spec/acceptance']`
-- `:feature\_paths` defaults to `['features']`
+- `:unit_paths` defaults to `['spec/unit']`
+- `:integration_paths` defaults to `['spec/integration']`
+- `:acceptance_paths` defaults to `['spec/acceptance']`
+- `:feature_paths` defaults to `['features']`
 
 Development
 -----------
