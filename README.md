@@ -4,6 +4,7 @@ Guard::BDD
 BDD guard is an opinionated RSpec and Cucumber runner.
 
 I like to partition my test suite into 3 or 4 groups:
+
 - fast unit tests
 - slower integration tests for interfaces to external libraries or services
 - slow RSpec acceptance tests and/or
